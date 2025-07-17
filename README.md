@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithi Hegdr</h1>
+<h1 align="center">Hi 👋, I'm Adithi Hegde</h1>
 <h3 align="center">I am a passionate engineer from India. I am basically an electronics and communication engineer and also an active learner in terms of coding.</h3>
 
 - 🔭 I’m currently working on **Waste net**
